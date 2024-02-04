@@ -1,2 +1,0 @@
-# Trio_Marketplace
-# ShopIT
